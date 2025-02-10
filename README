@@ -3,3 +3,6 @@ The CSST was modified from the standard stop-signal task in order to dissociate 
 
 Participant information:
 The group label is recorded in the participants.tsv file. In the "ADHD" column, a value of 0 indicates typically developing (TD) children, while a value of 1 indicates children with ADHD.
+
+Neuroimaging data:
+Functional MRI (fMRI) and structural MRI (sMRI) data are stored in the “openneuro” folder.
